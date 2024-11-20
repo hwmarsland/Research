@@ -1,4 +1,8 @@
+"""
+Copied (then modified) from https://huggingface.co/florath/CoqLLM-FineTuned-Experiment-Gen0
 
+Author: Harris Marsland
+"""
 
 
 import torch
